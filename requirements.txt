@@ -1,0 +1,5 @@
+# Dependencias de los dos notebooks. Abre los .ipynb con Jupyter, VS Code o Colab.
+tiktoken
+torch
+matplotlib
+transformer-lens<4
